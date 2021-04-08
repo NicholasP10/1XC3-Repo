@@ -1,3 +1,4 @@
+// Name: Nicholas Paiement
 #include <stdio.h>
 
 int main(void)
